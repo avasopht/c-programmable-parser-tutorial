@@ -1,3 +1,5 @@
+Note: License is MIT
+
 # How to write a text simple yet powerful configurable parser in C.
 
 A parser interprets an input and produces a tree representing its
