@@ -1,8 +1,9 @@
 License is MIT
 
-Note: this is a work in progress.
+Note: this is a work in progress **Full tutorial so far is in [parser.c](https://github.com/avasopht/c-programmable-parser-tutorial/blob/master/parser.c)**
 
 # How to write a simple yet powerful text configurable parser in C.
+
 
 A parser interprets an input and produces a tree representing its
 structure.
