@@ -8,7 +8,8 @@ structure.
 For example, the arithmetic expression $$3 + 2 * 7$$ using the BODMAS rule
 would be represented with the following s-expression:
 
-``` (+ 3 (* 2 7))
+```lisp
+(+ 3 (* 2 7))
 ```
 
 The above expression states that $$3$$ is added to the result of $$2 * 7$$.
