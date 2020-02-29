@@ -1,6 +1,6 @@
 License is MIT
 
-Note: this is a work in progress **Full tutorial so far is in [parser.c](https://github.com/avasopht/c-programmable-parser-tutorial/blob/master/parser.c)**
+Note: this is a work in progress. **Tutorial so far is in [parser.c](https://github.com/avasopht/c-programmable-parser-tutorial/blob/master/parser.c)**
 
 # How to write a simple yet powerful text configurable parser in C.
 
